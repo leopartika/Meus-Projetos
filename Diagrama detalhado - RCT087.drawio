@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T17:57:05.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="5B2Bi0ctEuUZBxPMnga4" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T17:58:58.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="de7yNuH1aEC_4bhTaAuu" version="24.6.4" type="github">
   <diagram name="Página-1" id="-Nbuqv1Fr_TWL1hPOY4e">
     <mxGraphModel dx="1063" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -387,10 +387,8 @@
         <mxCell id="LS8SCWTit5LCr3YZE1ZI-3" value="Faça a verificação e mostre uma mensagem ao usuário" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="840" y="280" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LS8SCWTit5LCr3YZE1ZI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LS8SCWTit5LCr3YZE1ZI-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="318" y="425" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LS8SCWTit5LCr3YZE1ZI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LS8SCWTit5LCr3YZE1ZI-5" target="LS8SCWTit5LCr3YZE1ZI-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LS8SCWTit5LCr3YZE1ZI-5" value="Clique em &quot;Cancelar&quot; e notifique o usuário" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="120" y="390" width="140" height="70" as="geometry" />
@@ -406,14 +404,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LS8SCWTit5LCr3YZE1ZI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="464" y="425" as="sourcePoint" />
-            <mxPoint x="490" y="425" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LS8SCWTit5LCr3YZE1ZI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LS8SCWTit5LCr3YZE1ZI-14" target="LS8SCWTit5LCr3YZE1ZI-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LS8SCWTit5LCr3YZE1ZI-14" value="Faça o Log Out da página" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="324" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="310" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LS8SCWTit5LCr3YZE1ZI-15" value="Notifique o usuário, informando se existe o botão de &quot;Log Out&quot;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
