@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T13:48:10.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="UKniIr-JMW8I7eJxAf5a" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T13:53:21.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="tj9mTiUhksCgg2NJgRv0" version="24.6.4" type="github">
   <diagram name="Página-1" id="-Nbuqv1Fr_TWL1hPOY4e">
     <mxGraphModel dx="1066" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="xklGR3EyqK50y4K4-iU5-7" value="Está fixado abaixo deste diagrama&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=1.5;arcSize=21;" parent="1" vertex="1">
           <mxGeometry x="350" y="300" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JY3O2gu2DYfYrPkbzah1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xklGR3EyqK50y4K4-iU5-9" target="JY3O2gu2DYfYrPkbzah1-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JY3O2gu2DYfYrPkbzah1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xklGR3EyqK50y4K4-iU5-9" target="xklGR3EyqK50y4K4-iU5-11">
           <mxGeometry relative="1" as="geometry" />
@@ -236,15 +233,6 @@
         <mxCell id="LS8SCWTit5LCr3YZE1ZI-15" value="Notifique o usuário, informando se existe o botão de &quot;Log Out&quot;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="540" y="1110" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JY3O2gu2DYfYrPkbzah1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JY3O2gu2DYfYrPkbzah1-1" target="JY3O2gu2DYfYrPkbzah1-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JY3O2gu2DYfYrPkbzah1-1" value="Funcionou?" style="whiteSpace=wrap;html=1;strokeColor=#007FFF;rounded=1;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="630" y="230" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JY3O2gu2DYfYrPkbzah1-6" value="Mensagem validando" style="whiteSpace=wrap;html=1;strokeColor=#82b366;rounded=1;strokeWidth=1.5;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="750" y="230" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="JY3O2gu2DYfYrPkbzah1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;entryX=0.429;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="1160" as="targetPoint" />
@@ -256,15 +244,6 @@
               <mxPoint x="170" y="1145" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JY3O2gu2DYfYrPkbzah1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JY3O2gu2DYfYrPkbzah1-10" target="JY3O2gu2DYfYrPkbzah1-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JY3O2gu2DYfYrPkbzah1-10" value="Não Funcionou?" style="whiteSpace=wrap;html=1;strokeColor=#007FFF;rounded=1;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="630" y="170" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JY3O2gu2DYfYrPkbzah1-15" value="Mensagem de Erro" style="whiteSpace=wrap;html=1;strokeColor=#b85450;rounded=1;strokeWidth=1.5;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="750" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JY3O2gu2DYfYrPkbzah1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JY3O2gu2DYfYrPkbzah1-34" target="JY3O2gu2DYfYrPkbzah1-35">
           <mxGeometry relative="1" as="geometry" />
@@ -307,6 +286,24 @@
         </mxCell>
         <mxCell id="JY3O2gu2DYfYrPkbzah1-48" value="Mensagem de Erro" style="whiteSpace=wrap;html=1;strokeColor=#b85450;rounded=1;strokeWidth=1.5;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1060" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JY3O2gu2DYfYrPkbzah1-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JY3O2gu2DYfYrPkbzah1-51" target="JY3O2gu2DYfYrPkbzah1-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JY3O2gu2DYfYrPkbzah1-51" value="Funcionou?" style="whiteSpace=wrap;html=1;strokeColor=#007FFF;rounded=1;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JY3O2gu2DYfYrPkbzah1-52" value="Mensagem validando" style="whiteSpace=wrap;html=1;strokeColor=#82b366;rounded=1;strokeWidth=1.5;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JY3O2gu2DYfYrPkbzah1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JY3O2gu2DYfYrPkbzah1-54" target="JY3O2gu2DYfYrPkbzah1-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JY3O2gu2DYfYrPkbzah1-54" value="Não Funcionou?" style="whiteSpace=wrap;html=1;strokeColor=#007FFF;rounded=1;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JY3O2gu2DYfYrPkbzah1-55" value="Mensagem de Erro" style="whiteSpace=wrap;html=1;strokeColor=#b85450;rounded=1;strokeWidth=1.5;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
